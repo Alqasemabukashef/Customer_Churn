@@ -37,6 +37,7 @@ Churn Overview Dashboard: Combining the above analyses into a dashboard that sum
 * Demographics of churned customers
 
   🗂️ Files Included
+  
 Churn Analysis Task.pdf: A case study document outlining the project tasks and analysis steps.
 Metadata Sheet - Customer Churn.pdf: A metadata reference sheet explaining the dataset's columns.
 My -Customer_Churn_Analysis-solved-Alqasem Abukashef.xlsx: The Excel workbook containing completed churn analysis, including:
